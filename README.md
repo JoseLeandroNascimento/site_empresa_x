@@ -31,3 +31,7 @@ _Checkout_, Tela de produto, Catálogo, Home com banner
 ### Imagem local
 
 ![Logo do Python](img/python.png)
+
+### Imagem externa
+
+![Logo do PHP](https://www.pngarts.com/files/6/PHP-PNG-Image-Background.png)
