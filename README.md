@@ -60,3 +60,8 @@ def soma(a,b):
 
 ```
 
+## lista de terefas a fazer
+
+-[x] Área de membros
+-[] integração com outros pagamentos
+-[] Sistema de bônus primeiro compra
