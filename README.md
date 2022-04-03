@@ -35,3 +35,7 @@ _Checkout_, Tela de produto, Catálogo, Home com banner
 ### Imagem externa
 
 ![Logo do PHP](https://www.pngarts.com/files/6/PHP-PNG-Image-Background.png)
+
+## Links interessantes
+
+[Google](https://www.google.com)
