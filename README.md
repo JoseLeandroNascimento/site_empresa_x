@@ -48,6 +48,14 @@ _Checkout_, Tela de produto, Catálogo, Home com banner
     function soma(a,b){
 
         return a+b;
-        
+
     }
+```
+
+```python
+
+    def soma(a,b):
+
+        return a + b
+
 ```
